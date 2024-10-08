@@ -1,4 +1,4 @@
-module and_gate_tb;
+module or_gate_tb;
   reg a,b;
   wire y;
   or_gate o1(a,b,y);
