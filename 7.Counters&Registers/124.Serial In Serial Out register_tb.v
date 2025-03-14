@@ -1,4 +1,4 @@
-module siso_tb;
+odule siso_tb;
   reg clk;
   reg rst;
   reg si;
