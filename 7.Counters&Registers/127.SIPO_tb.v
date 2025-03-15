@@ -1,4 +1,4 @@
-module tb;
+odule tb;
   reg clk,rst,si;
   wire [3:0] po;
   sipo sr(.clk(clk),.rst(rst),.si(si),.po(po));
